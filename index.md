@@ -1,13 +1,6 @@
-Quoting text
-
 # CSE 110 Lab 1
 
 ## Shashwat Dudeja's User Page
-
-**<ins>Table of contents:</ins>**
-1. Introduction: ([Jump to](#Introduction))
-2. Installing VSCode and extensions: ([Jump to](#Installing-VSCode-and-extensions))
-3. Getting familiar with git and version contol: ([Jump to](#Getting-familiar-with-git-and-version-control))
 
 ### Introduction
 **Hello!** My name is Shashwat Dudeja. I am a third year international student studying Math-CS.
@@ -141,6 +134,16 @@ We can look at the made changes here.
 
 
 ### Conclusion:
+
+
+**<ins>Table of contents:</ins>**
+1. Introduction: ([Jump to](#Introduction))
+2. Installing VSCode and extensions: ([Jump to](#Installing-VSCode-and-extensions))
+3. Getting familiar with git and version contol: ([Jump to](#Getting-familiar-with-git-and-version-control))
+
+Here's a quote:
+
+> _We are face to face with our destiny and we must meet it with high and resolute courage. For us is the life of action, of strenuous performance of duty; let us live in the harness, striving mightily; let us rather run the risk of wearing out than rusting out_. -Theodore Roosevelt (1858 - 1919), Address at the opening of the gubernatorial campaign, New York City, October 5, 1898
 
 Here's an image to a wolf.
 
