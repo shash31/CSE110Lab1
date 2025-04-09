@@ -142,6 +142,13 @@ We can look at the made changes here.
 ![current branch](/screenshots/current_branch.png)
 
 
+### Conclusion:
+
+Here's an image to a wolf.
+
+[wolf]()
+
+
 
 
 
