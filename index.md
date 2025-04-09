@@ -1,15 +1,13 @@
 Quoting text
-Section links (Link to a header in the same .md file)
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 
 # CSE 110 Lab 1
 
 ## Shashwat Dudeja's User Page
 
 **<ins>Table of contents:</ins>**
-1. Introduction: ([Link](#Introduction))
-2. Installing VSCode and extensions: ([Link](#Installing_VSCode_and_extensions))
-3. Getting familiar with git and version contol: ([Link](#Getting_familiar_with_git_and_version_control))
+1. Introduction: ([Jump to](#Introduction))
+2. Installing VSCode and extensions: ([Jump to](#Installing_VSCode_and_extensions))
+3. Getting familiar with git and version contol: ([Jump to](#Getting_familiar_with_git_and_version_control))
 
 ### Introduction
 **Hello!** My name is Shashwat Dudeja. I am a third year international student studying Math-CS.
@@ -146,7 +144,7 @@ We can look at the made changes here.
 
 Here's an image to a wolf.
 
-[wolf]()
+[wolf](wolf.png)
 
 
 
