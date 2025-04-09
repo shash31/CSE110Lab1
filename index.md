@@ -2,6 +2,11 @@
 
 ## Shashwat Dudeja's User Page
 
+**<ins>Table of contents:</ins>**
+1. Introduction: ([Jump to](#introduction))
+2. Installing VSCode and extensions: ([Jump to](#installing-vscode-and-extensions))
+3. Getting familiar with git and version contol: ([Jump to](#getting-familiar-with-git-and-version-control))
+
 ### Introduction
 **Hello!** My name is Shashwat Dudeja. I am a third year international student studying Math-CS.
 I grew up in Mumbai, India. In middle school and high school, I used to really enjoy coding up games and/or other projects spending hours losing my mind debugging.
@@ -134,12 +139,6 @@ We can look at the made changes here.
 
 
 ### Conclusion:
-
-
-**<ins>Table of contents:</ins>**
-1. Introduction: ([Jump to](#introduction))
-2. Installing VSCode and extensions: ([Jump to](#installing-vscode-and-extensions))
-3. Getting familiar with git and version contol: ([Jump to](#getting-familiar-with-git-and-version-control))
 
 Here's a quote:
 
