@@ -137,9 +137,9 @@ We can look at the made changes here.
 
 
 **<ins>Table of contents:</ins>**
-1. Introduction: ([Jump to](#Introduction))
-2. Installing VSCode and extensions: ([Jump to](#Installing-VSCode-and-extensions))
-3. Getting familiar with git and version contol: ([Jump to](#Getting-familiar-with-git-and-version-control))
+1. Introduction: ([Jump to](#introduction))
+2. Installing VSCode and extensions: ([Jump to](#installing-vscode-and-extensions))
+3. Getting familiar with git and version contol: ([Jump to](#getting-familiar-with-git-and-version-control))
 
 Here's a quote:
 
