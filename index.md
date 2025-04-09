@@ -144,7 +144,7 @@ We can look at the made changes here.
 
 Here's an image to a wolf.
 
-[wolf](wolf.png)
+[wolf](wolf.jpg)
 
 
 
