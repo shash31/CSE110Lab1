@@ -27,7 +27,7 @@ In my free time, I love to
 
 **Working with <ins>command line</ins>:**
 
-Before we start anything, we have to make sure that git is installed on our computer. If not, we can install [git here](https://git-scm.com/downloads).\
+Before we start anything, we have to make sure that git is installed on our computer. If not, we can install [git here](https://git-scm.com/downloads).
 
 Today, to get familiar with git, we will 
 
