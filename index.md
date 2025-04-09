@@ -29,12 +29,12 @@ Before we start anything, we have to make sure that git is installed on our comp
 
 Today, to get familiar with git, we will 
 
-- [] Cloning repository
-- [] Cding into repository and creating new branch and switching into it
-- [] Modify README file
-- [] Adding new changes
-- [] Committing files
-- [] Pushing changes to remote repo
+- [ ] Cloning repository
+- [ ] Cding into repository and creating new branch and switching into it
+- [ ] Modify README file
+- [ ] Adding new changes
+- [ ] Committing files
+- [ ] Pushing changes to remote repo
 
 
 First step is cloning the repository.
@@ -48,11 +48,11 @@ git clone <github_link>
 ![git clone command](/screenshots/git_clone.png)
 
 - [x] Cloning repository
-- [] Cding into repository and creating new branch and switching into it
-- [] Modify README file
-- [] Adding new changes
-- [] Committing files
-- [] Pushing changes to remote repo
+- [ ] Cding into repository and creating new branch and switching into it
+- [ ] Modify README file
+- [ ] Adding new changes
+- [ ] Committing files
+- [ ] Pushing changes to remote repo
 
 Now, we 'cd' into the folder.
 
@@ -73,10 +73,10 @@ Switching into that new branch using 'git checkout'.
 
 - [x] Cloning repository
 - [x] Cding into repository and creating new branch and switching into it
-- [] Modify README file
-- [] Adding new changes
-- [] Committing files
-- [] Pushing changes to remote repo
+- [ ] Modify README file
+- [ ] Adding new changes
+- [ ] Committing files
+- [ ] Pushing changes to remote repo
 
 We modified the README file so now we add the changes.
 
@@ -90,8 +90,8 @@ git add <files_changed>
 - [x] Cding into repository and creating new branch and switching into it
 - [x] Modify README file
 - [x] Adding new changes
-- [] Committing files
-- [] Pushing changes to remote repo
+- [ ] Committing files
+- [ ] Pushing changes to remote repo
 
 Now, we take a snapshot of the staged changes using the 'git commit -m <commit_message>' command.
 
@@ -102,7 +102,7 @@ Now, we take a snapshot of the staged changes using the 'git commit -m <commit_m
 - [x] Modify README file
 - [x] Adding new changes
 - [x] Committing files
-- [] Pushing changes to remote repo
+- [ ] Pushing changes to remote repo
 
 Now, we push our current state of the repo that we snapshotted to the remote repository.
 We use the 'git push' command with the '--set-upstream' flag as we made our changes in a different branch in which we haven't pushed anything before.
