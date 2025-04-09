@@ -6,8 +6,8 @@ Quoting text
 
 **<ins>Table of contents:</ins>**
 1. Introduction: ([Jump to](#Introduction))
-2. Installing VSCode and extensions: ([Jump to](#Installing_VSCode_and_extensions))
-3. Getting familiar with git and version contol: ([Jump to](#Getting_familiar_with_git_and_version_control))
+2. Installing VSCode and extensions: ([Jump to](#Installing-VSCode-and-extensions))
+3. Getting familiar with git and version contol: ([Jump to](#Getting-familiar-with-git-and-version-control))
 
 ### Introduction
 **Hello!** My name is Shashwat Dudeja. I am a third year international student studying Math-CS.
@@ -17,11 +17,11 @@ In my free time, I love to
 - Weightlift
 - I also play a lot of chess and some piano occassionally.
 
-## Installing VSCode and extensions
+### Installing VSCode and extensions
 
 
 
-## Getting familiar with git and version control
+### Getting familiar with git and version control
 
 **Working with <ins>command line</ins>:**
 
