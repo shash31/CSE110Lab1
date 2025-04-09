@@ -21,6 +21,8 @@ In my free time, I love to
 
 ## Installing VSCode and extensions
 
+
+
 ## Getting familiar with git and version control
 
 **Working with <ins>command line</ins>:**
