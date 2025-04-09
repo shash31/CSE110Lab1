@@ -17,7 +17,13 @@ In my free time, I love to
 
 ### Installing VSCode and extensions
 
+VSCode can be installed here: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
+Some nice extensions:
+[Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+[LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+[Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+[CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
 
 ### Getting familiar with git and version control
 
